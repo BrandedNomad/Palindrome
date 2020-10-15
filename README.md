@@ -1,5 +1,5 @@
 # Palindrome
-**Palindrome** is a simple Vanilla js web-application, that checks if a word is a palindrome or not. ["Click here to see the app"](https://brandednomad.github.io/palindrome/ ) 
+**Palindrome** is a simple Vanilla js web-application, that checks if a word is a palindrome or not. ["Click here to see the app"](https://brandednomad.github.io/Palindrome/ ) 
 
 ## Install
 
